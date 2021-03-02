@@ -1,7 +1,7 @@
 {
-  "webhookID": "",
-  "webhookToken": "",
+  "webhookID": "816093831824539698",
+  "webhookToken": "65xOueoDgDdo2si37kBj4-txX-CHPHnPQ1iNiUOHAy9xkiFYmh11JJAGGviKxarj7lQC",
   "interval": 2,
-  "watchlist": ["ethereum", "bitcoin"],
-  "compare": ["usd", "eur"]
+  "watchlist": ["ethereum", "bitcoin", "doge", "cardono", "crypto.com coin"],
+  "compare": ["usd"]
 }
